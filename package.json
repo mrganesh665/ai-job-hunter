@@ -1,0 +1,13 @@
+{
+  "name": "ai-job-hunter-web",
+  "version": "2.0.0",
+  "description": "AI-Powered Job Hunter Web Application with ATS Matching, Skill Gap Analysis & Auto-Apply Pipeline",
+  "scripts": {
+    "server": "cd server && npm start",
+    "client": "cd client && npm run dev",
+    "dev": "node -e \"console.log('Use npm run server and npm run client, or run them concurrently!')\""
+  },
+  "keywords": ["ai", "job-hunter", "ats-matcher", "career-automation"],
+  "author": "",
+  "license": "MIT"
+}

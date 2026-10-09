@@ -1,0 +1,37 @@
+# Dependencies
+node_modules/
+*/node_modules/
+server/node_modules/
+client/node_modules/
+
+# Production build outputs
+dist/
+client/dist/
+build/
+
+# Environment configurations
+.env
+.env.local
+.env.*.local
+server/.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+
+# IDE & Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace

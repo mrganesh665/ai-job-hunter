@@ -1,0 +1,32 @@
+{
+  "name": "Alex Mercer",
+  "title": "Senior Full-Stack & AI Engineer",
+  "email": "alex.mercer@example.dev",
+  "location": "San Francisco, CA / Remote",
+  "experienceYears": 5,
+  "skills": [
+    "JavaScript",
+    "TypeScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "Express",
+    "Python",
+    "FastAPI",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Docker",
+    "AWS",
+    "CI/CD",
+    "Git",
+    "GraphQL",
+    "REST API",
+    "OpenAI API",
+    "LangChain",
+    "Vite",
+    "Tailwind CSS"
+  ],
+  "summary": "Experienced Full Stack Software Engineer with 5+ years building scalable web applications and AI-augmented tools. Strong expertise in TypeScript, React, Node.js, Python, microservices, and LLM integrations with high emphasis on performance, clean architecture, and modern UX.",
+  "rawText": "Alex Mercer\nSenior Full-Stack & AI Engineer\nEmail: alex.mercer@example.dev | Location: Remote / San Francisco, CA\n\nSUMMARY:\nSenior Full-Stack Software Engineer with 5+ years of experience specializing in TypeScript, React, Next.js, Node.js, Express, Python, and cloud architectures. Passionate about AI agents, LLM pipelines (LangChain, OpenAI API), and building intuitive, reactive frontend interfaces with high ATS relevance.\n\nTECHNICAL SKILLS:\n• Languages & Core: JavaScript (ES6+), TypeScript, Python, HTML5, CSS3, SQL\n• Frontend: React, Next.js, Redux, Zustand, Vite, Tailwind CSS, Responsive Design\n• Backend & APIs: Node.js, Express, FastAPI, REST API, GraphQL, Microservices\n• Databases & Caching: PostgreSQL, MongoDB, Redis\n• Cloud & DevOps: Docker, AWS (S3, EC2, Lambda), GitHub Actions, CI/CD, Git\n• AI & Agents: OpenAI API, LangChain, RAG, Prompt Engineering, Groq\n\nEXPERIENCE:\nSenior Software Engineer — CloudScale Labs (2022 - Present)\n• Designed and maintained full-stack web applications handling over 2M monthly requests using React, TypeScript, Node.js, and PostgreSQL.\n• Architected automated AI document workflows using Python and OpenAI APIs, reducing manual review latency by 68%.\n• Built real-time collaboration features with WebSockets and Redis Pub/Sub.\n\nSoftware Engineer — NexaTech Solutions (2019 - 2022)\n• Developed responsive UI components in React and state management workflows.\n• Implemented secure RESTful APIs with Express, JWT authentication, and MongoDB.\n• Setup continuous integration pipelines with GitHub Actions and Docker containers.\n\nEDUCATION:\nB.S. in Computer Science — University of California, Berkeley"
+}
