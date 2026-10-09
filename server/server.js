@@ -19,6 +19,23 @@ app.use("/api/jobs", jobsRouter);
 app.use("/api/resume", resumeRouter);
 app.use("/api/activity", activityRouter);
 
+// Root & API welcome directory
+app.get(["/", "/api"], (req, res) => {
+  res.json({
+    message: "🚀 AI Job Hunter Backend API is Live!",
+    status: "ok",
+    version: "2.0.0",
+    docs: "https://github.com/mrganesh665/ai-job-hunter",
+    availableEndpoints: {
+      health: "/api/health",
+      jobs: "/api/jobs",
+      stats: "/api/jobs/stats",
+      resume: "/api/resume",
+      activity: "/api/activity"
+    }
+  });
+});
+
 // Health check
 app.get("/api/health", (req, res) => {
   res.json({
