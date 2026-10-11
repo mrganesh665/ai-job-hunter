@@ -1,6 +1,6 @@
 # 🎯 AI Job Hunter Web Platform
 
-An intelligent, autonomous AI-powered job hunting and application dashboard inspired by [`AI-Job-Hunter`](https://github.com/v662-coder/AI-Job-Hunter.git). Features an ATS match scoring engine, real-time skill gap analysis, candidate resume parsing, and an application pipeline workflow.
+An intelligent, autonomous AI-powered job hunting and application dashboard inspired by [`AI-Job-Hunter`](https://github.com/mrganesh665/ai-job-hunter.git). Features an ATS match scoring engine, real-time skill gap analysis, candidate resume parsing, and an application pipeline workflow.
 
 ---
 
